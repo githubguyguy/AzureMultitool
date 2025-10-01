@@ -1,0 +1,14 @@
+C:\Users\Christoph\source\repos\playfabshit\playfabshit\bin\Debug\playfabshit.exe.config
+C:\Users\Christoph\source\repos\playfabshit\playfabshit\bin\Debug\playfabshit.exe
+C:\Users\Christoph\source\repos\playfabshit\playfabshit\bin\Debug\playfabshit.pdb
+C:\Users\Christoph\source\repos\playfabshit\playfabshit\obj\Debug\playfabshit.csproj.AssemblyReference.cache
+C:\Users\Christoph\source\repos\playfabshit\playfabshit\obj\Debug\playfabshit.csproj.CoreCompileInputs.cache
+C:\Users\Christoph\source\repos\playfabshit\playfabshit\obj\Debug\playfabshit.exe
+C:\Users\Christoph\source\repos\playfabshit\playfabshit\obj\Debug\playfabshit.pdb
+C:\Users\Christoph\source\repos\playfabshit\playfabshit\bin\Debug\PlayFabAllSDK.dll
+C:\Users\Christoph\source\repos\playfabshit\playfabshit\bin\Debug\Polly.dll
+C:\Users\Christoph\source\repos\playfabshit\playfabshit\bin\Debug\Polly.pdb
+C:\Users\Christoph\source\repos\playfabshit\playfabshit\bin\Debug\Polly.xml
+C:\Users\Christoph\source\repos\playfabshit\playfabshit\obj\Debug\playfabs.F6AE920D.Up2Date
+C:\Users\Christoph\source\repos\playfabshit\playfabshit\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Christoph\source\repos\playfabshit\playfabshit\bin\Debug\Newtonsoft.Json.xml
