@@ -1,4 +1,4 @@
-﻿using Newtonsoft.Json;
+using Newtonsoft.Json;
 using PlayFab;
 using PlayFab.ClientModels;
 using System;
@@ -242,9 +242,12 @@ namespace playfabshit
             Console.Write("Enter the function name : ");
             executeCloudScriptRequest.FunctionName = Console.ReadLine();
             Console.Write("you have to edit source code to change arguments");
+            executeCloudScriptRequest.FunctionParameter = new { };
 
             await PlayFabClientAPI.ExecuteCloudScriptAsync(executeCloudScriptRequest);
             Console.WriteLine("executed cloud script");
+            Console.WriteLine("Press any key to exit");
+            Console.ReadKey();
 
         }
 
